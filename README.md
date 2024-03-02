@@ -6,7 +6,7 @@ However, size limits on file uploads to GitHub prevented me from uploading the a
 
 ## Description
 
-### Audio recordings
+### Audio recordings [1]
 
 #### *PLEASE NOTE: Limits on upload file size prevented me from including audio files described below in this repository*
 
@@ -16,7 +16,7 @@ The recordings from the OSBH project were acquired through a citizen science ini
 
 The NU-Hive project is a comprehensive effort of data acquisition, concerning not only sound, but a vast amount of variables that will allow the study of bees behaviors and other unknown aspects. The selected recordings are taken from 2 hives and labeled regarding two states: queen bee is present, and queen bee not present. Contrary to the OSBH project recordings, the recordings from the NU-Hive project are from a much more controlled and homogeneous environment. Here the occurring external sounds are mainly traffic, car honks and birds.
 
-### The annotated dataset
+### The annotated dataset [1]
 
 For each selected recording, time segments are labeled as Bee or noBee depending on the perceived source of the sound signal being from bees or external to the hive.
 
@@ -26,7 +26,7 @@ About 60% of the recordings are from the NU-Hive dataset and represent 2 hives, 
 
  
 
-### Annotation procedure
+### Annotation procedure [1]
 
 The annotation procedure consists in hearing the selected recordings and marking the beginning and the end of every sound that could not be recognized as a beehive sound. The recognition of external sounds is based primarily on the perceived heard sounds, but a visual aid is also used by visualizing the log-mel frequency spectrum of the signal. All the above are functionalities offered by the Sonic Visualiser software, which was used by two volunteers that are neither bee-specialists nor specially trained in sound annotation tasks.
 
@@ -55,7 +55,7 @@ This project would be licensed under the Creative Commons Attribution 4.0 Intern
 
 This dataset and its associated metadata was compiled and created by Inês Nolasco and Emmanouil Benetos from Queen Mary University of London. All credit for the content here displayed goes to Nolasco and Benetos.
 
-Nolasco, I., & Benetos, E. (2018). To bee or not to bee: An annotated dataset for beehive sound recognition [Data set]. Zenodo. 
+[1] Nolasco, I., & Benetos, E. (2018). To bee or not to bee: An annotated dataset for beehive sound recognition [Data set]. Zenodo. 
  https://doi.org/10.5281/zenodo.1321278
 
 ## File Index
