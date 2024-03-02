@@ -1,0 +1,96 @@
+{
+  "creators": [
+    {
+      "affiliation": [
+        {
+          "name": "Queen Mary University of London"
+        }
+      ],
+      "familyName": "Nolasco",
+      "givenName": "In\u00eas",
+      "name": "Nolasco, In\u00eas",
+      "nameIdentifiers": [],
+      "nameType": "Personal"
+    },
+    {
+      "affiliation": [
+        {
+          "name": "Queen Mary University of London"
+        }
+      ],
+      "familyName": "Benetos",
+      "givenName": "Emmanouil",
+      "name": "Benetos, Emmanouil",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-6820-6764",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "nameType": "Personal"
+    }
+  ],
+  "dates": [
+    {
+      "date": "2018-07-25",
+      "dateType": "Issued"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "-- Dataset documentation --\n\n\n\n1- Introduction\n\n\nThe present dataset was developed in the context of our work in [1] that focus on the automatic recognition of beehive sounds. The problem is posed as the classification of sound segments in two classes: Bee and noBee. The novelty of the explored approach and the need for annotated data, dictated the construction of such dataset.\n\n\n2- Description\n\n\n2.1- Audio recordings:\n\n\nThe annotated dataset was developed based on a selected set of recordings acquired in the context of two different projects: the Open Source Beehive (OSBH) project [2] and the NU-Hive project [3]. Both projects main goal is to develop a beehive monitoring system capable of identifying and predict certain events and states of the hive that are of interest to the beekeeper. Among many different variables that can be measured and that help the recognition of different states of the hive, the analysis and use of the sound the bees produce is a big focus for both projects.\n\n\nThe recordings from the OSBH project were acquired through a citizen science initiative which asked people from the general public to record the sound from their beehives together with the registering of the hive state at the moment. Because of the amateur and collaborative nature of this project, the recordings from the OSBH project present great diversity due to the very different conditions in which the signals were acquired: different recording devices used, different environments where the hives were placed, and even different position for the microphones inside the hive. This variety of settings makes this dataset a very interesting tool to help evaluate and challenge the methods developed.\n\n\nThe NU-Hive project is a comprehensive effort of data acquisition, concerning not only sound, but a vast amount of variables that will allow the study of bees behaviors and other unknown aspects. The selected recordings are taken from 2 hives and labeled regarding two states: queen bee is present, and queen bee not present. Contrary to the OSBH project recordings, the recordings from\u00a0the NU-Hive project are from a much more controlled and homogeneous environment. Here the occurring external sounds are mainly traffic, car honks and birds.\n\n\nThe annotated dataset:\n\n\nFor each selected recording, time segments are labeled as Bee or noBee depending on the perceived source of the sound signal being from bees or external to the hive.\n\n\nThe whole annotated dataset consists of 78 recordings of varying lengths which make up for a total duration of approximately 12 hours of which 25% is annotated as noBee events.\n\n\nAbout 60% of the recordings are from the NU-Hive dataset and represent 2 hives, the remaining are recordings from the OSBH dataset and 6 different hives. The recorded hives are from 3 main locations: North America, Australia and Europe.\n\n\n\u00a0\n\n\n2- Annotation procedure\u00b6\n\n\nThe annotation procedure consists in hearing the selected recordings and marking the beginning and the end of every sound that could not be recognized as a beehive sound. The recognition of external sounds is based primarily on the perceived heard sounds, but a visual aid is also used by visualizing the log-mel frequency spectrum of the signal. All the above are functionalities offered by the Sonic Visualiser software, which was used by two volunteers that are neither bee-specialists nor specially trained in sound annotation tasks.\n\n\nBy marking these pairs of moments corresponding to the beginning and end of external sound periods, we are able to get the whole recording labeled into\u00a0Bee and noBee intervals. Thus in the resulting Bee intervals only pure beehive sounds, (no external sounds) should be perceived for the entirety of the segment. The noBee intervals refer to periods where an external sound can be perceived (superimposed to the bee sounds).\n\n\n\u00a0\n\n\nFile Structure:\n\n\nEach audio file is coupled with its corresponding annotation file, identified by the same name and extension .lab.\nFor convenience, all the annotations are collected in a single master label file named beeAnnotations.mlf\n\n\nThe .lab\u00a0files consist of :\u00a0\n\n\n\n\t\nFirst row identifies the audio file to which the annotations refer to.\n\t\nEach line after that describes an interval with starting time point, end time point and label. The time points are expressed in seconds.\n\n\n\nBelow is an example of such an annotation file:\u00a0\n\n\nHive3_20_07_2017_QueenBee_H3_audio_15_30_00\n0 78.45 bee\n78.46 78.95 nobee\n78.96 103.92 bee\n103.93 112.48 nobee\n112.49 152.48 bee\n.\n\n\n\nThis dataset is licensed under a Creative Commons Attribution 4.0 International License.\nWhen using this dataset, please cite [1]:\n\n\n[1] I. Nolasco and E. Benetos, \u201cTo bee or not to bee: Investigating machine learning approaches to beehive sound recognition,\u201d in Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE), 2018, submitted.\n\n\n[2] \u201cOpen Source Beehives Project,\u201d https://www.osbeehives.com/.\n\n\n[3] S. Cecchi, A. Terenzi, S. Orcioni, P. Riolo, S. Ruschioni, and N. Isidoro, \u201cA preliminary study of sounds emitted by honey bees in a beehive,\u201d in Audio Engineering Society Convention 144, 2018.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "identifiers": [
+    {
+      "identifier": "https://zenodo.org/records/1321278",
+      "identifierType": "URL"
+    },
+    {
+      "identifier": "10.5281/zenodo.1321278",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "oai:zenodo.org:1321278",
+      "identifierType": "oai"
+    }
+  ],
+  "publicationYear": "2018",
+  "publisher": "Zenodo",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.5281/zenodo.1321277",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsVersionOf"
+    },
+    {
+      "relatedIdentifier": "https://zenodo.org/communities/c4dm",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    },
+    {
+      "relatedIdentifier": "https://zenodo.org/communities/opensourcebeehives",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "rightsList": [
+    {
+      "rights": "Creative Commons Attribution 4.0 International",
+      "rightsIdentifier": "cc-by-4.0",
+      "rightsIdentifierScheme": "spdx",
+      "rightsUri": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "schemaVersion": "http://datacite.org/schema/kernel-4",
+  "titles": [
+    {
+      "title": "To bee or not to bee: An annotated dataset for beehive sound recognition"
+    }
+  ],
+  "types": {
+    "resourceType": "",
+    "resourceTypeGeneral": "Dataset"
+  }
+}
