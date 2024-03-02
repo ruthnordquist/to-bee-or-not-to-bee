@@ -49,11 +49,14 @@ Benetos, Emmanouil (Queen Mary University of London)
 
 ## License
 
-This project would be licensed under the [Creative Commons Attribution 4.0 International] License. The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
+This project would be licensed under the Creative Commons Attribution 4.0 International License. The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
 
 ## Acknowledgments
 
-* This dataset and its associated metadata was compiled and created by Inês Nolasco and Emmanouil Benetos from Queen Mary University of London. All credit for the content here displayed goes to Nolasco and Benetos.
+This dataset and its associated metadata was compiled and created by Inês Nolasco and Emmanouil Benetos from Queen Mary University of London. All credit for the content here displayed goes to Nolasco and Benetos.
+
+Nolasco, I., & Benetos, E. (2018). To bee or not to bee: An annotated dataset for beehive sound recognition [Data set]. Zenodo. 
+ https://doi.org/10.5281/zenodo.1321278
 
 ## File Index
 
