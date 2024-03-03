@@ -33,23 +33,17 @@ The annotation procedure consists in hearing the selected recordings and marking
 By marking these pairs of moments corresponding to the beginning and end of external sound periods, we are able to get the whole recording labeled into Bee and noBee intervals. Thus in the resulting Bee intervals only pure beehive sounds, (no external sounds) should be perceived for the entirety of the segment. The noBee intervals refer to periods where an external sound can be perceived (superimposed to the bee sounds).
 
 
-## Authors
+## Authors [1]
 
 Nolasco, Inês (Queen Mary University of London)
  
 Benetos, Emmanouil (Queen Mary University of London)
 
 
-## Version History
+## License [1]
 
-* 0.1
-    * Initial Release
-    * 10.5281/zenodo.1321278
-    * Jul 25, 2018
+This recommended license for this project is the Creative Commons Attribution 4.0 International License. The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
 
-## License
-
-This project would be licensed under the Creative Commons Attribution 4.0 International License. The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
 
 ## Acknowledgments
 
