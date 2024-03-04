@@ -56,93 +56,93 @@ This dataset and its associated metadata was compiled and created by Inês Nolas
 
 ## File Index
 
-###Beehive Noise - Text File  Annotations
-*Annotations - Sound Inside a Swarming Bee Hive  -25 to -15 minutes-sE02T8B2LfA.lab
-*Annotations - Sound Inside a Swarming Bee Hive +5 to +15 minutes-BIZx-8kLrdw.lab
-*Annotations Master.mlf
-*CF001 - Missing Queen - Day -.lab
-*CF003 - Active - Day - (214).lab
-*CF003 - Active - Day - (215).lab
-*CF003 - Active - Day - (216).lab
-*CF003 - Active - Day - (217).lab
-*CF003 - Active - Day - (218).lab
-*CF003 - Active - Day - (219).lab
-*CF003 - Active - Day - (220).lab
-*CF003 - Active - Day - (221).lab
-*CF003 - Active - Day - (222).lab
-*CF003 - Active - Day - (223).lab
-*CF003 - Active - Day - (224).lab
-*CF003 - Active - Day - (225).lab
-*CF003 - Active - Day - (226).lab
-*CF003 - Active - Day - (227).lab
-*CJ001 - Missing Queen - Day -  (100).lab
-*CJ001 - Missing Queen - Day -  (101).lab
-*CJ001 - Missing Queen - Day -  (102).lab
-*CJ001 - Missing Queen - Day -  (103).lab
-*CJ001 - Missing Queen - Day -  (104).lab
-*GH001 - Active - Day - 141022_0659_0751.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___15_00_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___15_10_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___15_20_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___15_30_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___15_40_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_00_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_10_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_20_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_30_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_40_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___16_50_00.lab
-*Hive1_12_06_2018_QueenBee_H1_audio___17_00_00.lab
-*Hive1_31_05_2018_NO_QueenBee_H1_audio___15_00_00.lab
-*Hive1_31_05_2018_NO_QueenBee_H1_audio___15_10_00.lab
-*Hive1_31_05_2018_NO_QueenBee_H1_audio___15_20_00.lab
-*Hive1_31_05_2018_NO_QueenBee_H1_audio___15_30_00.lab
-*Hive1_31_05_2018_NO_QueenBee_H1_audio___15_40_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_00_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_10_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_20_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_30_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_40_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___15_50_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_00_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_10_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_20_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_30_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_40_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___16_50_00.lab
-*Hive3_12_07_2017_NO_QueenBee_H3_audio___17_00_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___06_10_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___06_20_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___06_30_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___06_40_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___06_50_00.lab
-*Hive3_15_07_2017_NO_QueenBee_H3_audio___07_00_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___06_10_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___06_20_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___06_30_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___06_40_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___06_50_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___07_00_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_00_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_10_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_20_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_30_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_40_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___15_50_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_00_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_10_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_20_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_30_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_40_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___16_50_00.lab
-*Hive3_20_07_2017_QueenBee_H3_audio___17_00_00.lab
+### Beehive Noise - Text File  Annotations
+* Annotations - Sound Inside a Swarming Bee Hive  -25 to -15 minutes-sE02T8B2LfA.lab
+* Annotations - Sound Inside a Swarming Bee Hive +5 to +15 minutes-BIZx-8kLrdw.lab
+* Annotations Master.mlf
+* CF001 - Missing Queen - Day -.lab
+* CF003 - Active - Day - (214).lab
+* CF003 - Active - Day - (215).lab
+* CF003 - Active - Day - (216).lab
+* CF003 - Active - Day - (217).lab
+* CF003 - Active - Day - (218).lab
+* CF003 - Active - Day - (219).lab
+* CF003 - Active - Day - (220).lab
+* CF003 - Active - Day - (221).lab
+* CF003 - Active - Day - (222).lab
+* CF003 - Active - Day - (223).lab
+* CF003 - Active - Day - (224).lab
+* CF003 - Active - Day - (225).lab
+* CF003 - Active - Day - (226).lab
+* CF003 - Active - Day - (227).lab
+* CJ001 - Missing Queen - Day -  (100).lab
+* CJ001 - Missing Queen - Day -  (101).lab
+* CJ001 - Missing Queen - Day -  (102).lab
+* CJ001 - Missing Queen - Day -  (103).lab
+* CJ001 - Missing Queen - Day -  (104).lab
+* GH001 - Active - Day - 141022_0659_0751.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___15_00_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___15_10_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___15_20_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___15_30_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___15_40_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_00_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_10_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_20_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_30_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_40_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___16_50_00.lab
+* Hive1_12_06_2018_QueenBee_H1_audio___17_00_00.lab
+* Hive1_31_05_2018_NO_QueenBee_H1_audio___15_00_00.lab
+* Hive1_31_05_2018_NO_QueenBee_H1_audio___15_10_00.lab
+* Hive1_31_05_2018_NO_QueenBee_H1_audio___15_20_00.lab
+* Hive1_31_05_2018_NO_QueenBee_H1_audio___15_30_00.lab
+* Hive1_31_05_2018_NO_QueenBee_H1_audio___15_40_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_00_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_10_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_20_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_30_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_40_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___15_50_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_00_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_10_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_20_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_30_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_40_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___16_50_00.lab
+* Hive3_12_07_2017_NO_QueenBee_H3_audio___17_00_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___06_10_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___06_20_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___06_30_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___06_40_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___06_50_00.lab
+* Hive3_15_07_2017_NO_QueenBee_H3_audio___07_00_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___06_10_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___06_20_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___06_30_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___06_40_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___06_50_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___07_00_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_00_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_10_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_20_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_30_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_40_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___15_50_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_00_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_10_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_20_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_30_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_40_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___16_50_00.lab
+* Hive3_20_07_2017_QueenBee_H3_audio___17_00_00.lab
 
-###Project Information
-*README.md
-*Term Project Final Report.pdf
-*Zenodo documentation.pdf
+### Project Information
+* README.md
+* Term Project Final Report.pdf
+* Zenodo documentation.pdf
 
-###Metadata
-*datacite_metadata.json
-*datacite_metadata.xml
-*dublincore_metadata.xml
+### Metadata
+* datacite_metadata.json
+* datacite_metadata.xml
+* dublincore_metadata.xml
