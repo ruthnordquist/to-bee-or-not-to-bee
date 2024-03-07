@@ -145,4 +145,3 @@ This dataset and its associated metadata was compiled and created by Inês Nolas
 ### Metadata
 * datacite_metadata.json
 * datacite_metadata.xml
-* dublincore_metadata.xml
